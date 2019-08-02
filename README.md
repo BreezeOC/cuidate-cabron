@@ -13,4 +13,4 @@
 
 ### Cuídate cabrón API
 
- - [Server](https://github.com/mosorio19/cuidate-cabron-server)
+ 
